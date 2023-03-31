@@ -1,0 +1,42 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Poppins:ital,wght@1,600&display=swap');
+body{
+    overflow-x: hidden;
+}
+  /* .nav a::after{
+    content: "";
+    display: block;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.1rem solid crimson;
+    transform: scaleX(0);
+}
+
+.nav a:hover::after{
+    transform: scaleX(0.5);
+    transition: 0.4s linear;
+} */
+
+.jumbotron{
+    padding-top: 5rem; 
+    background-color: #e2edff;
+}
+
+.nama{
+    font-size: 3.1rem;
+}
+.nama:hover{
+    cursor: pointer;
+    color: #0D6EFD;
+    transition: 1s ease-in-out;
+}
+
+.col h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+#card{
+    background-color: #e2edff;
+}
+
+.footer a{
+    text-decoration: none;
+}
